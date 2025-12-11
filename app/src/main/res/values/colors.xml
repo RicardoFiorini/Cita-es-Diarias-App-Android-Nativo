@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="luxury_bg_start">#0F172A</color> <color name="luxury_bg_end">#1E1B4B</color>   <color name="luxury_card">#2D3748</color>     <color name="luxury_gold">#D4AF37</color>     <color name="luxury_text_dim">#94A3B8</color> <color name="btn_surface">#334155</color>
+</resources>
